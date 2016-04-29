@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./delinguaspenser00willgoog_0048.png"; bbox 0 0 733 1127; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 225 995 458 1118">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 225 995 458 1118">
+     <span class='ocr_line' id='line_1_1' title="bbox 225 995 458 1118; textangle 90"><span class='ocrx_word' id='word_1_1' title='bbox 225 995 458 1118; x_wconf 70' lang='lat' dir='ltr'><strong><em>w</em></strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 505 24 651 52">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 505 0 724 181">
+     <span class='ocr_line' id='line_1_2' title="bbox 505 24 651 52; baseline 0.009 -2"><span class='ocrx_word' id='word_1_2' title='bbox 505 24 539 51; x_wconf 84' lang='grc' dir='ltr'>ΥΒ</span> <span class='ocrx_word' id='word_1_3' title='bbox 566 25 651 52; x_wconf 72' lang='grc'>11405</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 634 188 724 424">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 634 188 724 424">
+     <span class='ocr_line' id='line_1_3' title="bbox 634 188 724 424; baseline 0 0"><span class='ocrx_word' id='word_1_4' title='bbox 634 188 724 424; x_wconf 65' lang='grc'>1</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
